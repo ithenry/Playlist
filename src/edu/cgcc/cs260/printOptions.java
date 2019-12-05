@@ -1,7 +1,7 @@
 package edu.cgcc.cs260;
 
 public class printOptions {
-    private static void printMenu() {
+    public static void printMenu() {
         System.out.println("Available actions: \npress");
         System.out.println("1 to Play Playlist \n" +
                 "2 - Stop Song" +

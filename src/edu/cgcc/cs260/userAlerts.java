@@ -1,8 +1,20 @@
+package edu.cgcc.cs260;
+
+
 public class userAlerts {
 
-    public void renameFailed(){
+    try
+
+
+     } catch {
+        {
+public void renameFailed () {
         System.out.println("Invalid name, please enter a valid name");
         }
-    public void
+public void;
+
     }
+
+
 }
+

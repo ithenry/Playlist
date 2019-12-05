@@ -32,7 +32,7 @@ public class createLinkedList {
 
     //delete playlist
     private void deletePlaylist(){
-        this.front = null;
+        this. = null;
     }
 
 

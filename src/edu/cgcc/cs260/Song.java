@@ -5,6 +5,7 @@ public class Song{
     private String name;
     private int duration;
 
+    //Member functions
     //construct a song
     public Song(String name, int duration){
         this.name = name;
